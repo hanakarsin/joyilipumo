@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kogojutagu.pages.dev/sitemap.xml
